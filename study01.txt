@@ -6,4 +6,9 @@ git commit -m "remind information"
 git log
 git reflog
 
+git reflog --pretty=oneline
+
+git reset --hard HEAD^
+
+git reset --hard 1094a
 
